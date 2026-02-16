@@ -586,7 +586,7 @@ This is a **development harness only**.
 
 ## License
 
-[Specify your license]
+MIT
 
 ## Contributing
 
